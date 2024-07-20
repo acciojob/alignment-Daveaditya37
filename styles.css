@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.middle{
+	width:600px;
+	border-collapse:collapse;
+	 margin-left: auto;
+  margin-right: auto;
+}
+#t12{
+	text-align:center;
+}
+#t13{
+	text-align:right;
+}
+h1{
+	text-align:center;
+}
